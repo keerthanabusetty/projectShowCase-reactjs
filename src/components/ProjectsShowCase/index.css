@@ -1,0 +1,16 @@
+.app-list {
+  width: 20%;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.list-img {
+  width: 100%;
+  height: 125px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+.list-text {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: bold;
+}
